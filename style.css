@@ -21,7 +21,7 @@ a:hover {
     background-color: red;
 }
 
-
+/* image height and placement */
 img {
     height: auto;
     display: block;
@@ -29,7 +29,7 @@ img {
     margin-right: auto;
     width: 40%;
 }
-
+/* break line on website */
 hr {
     border: 3px solid rgb(220, 64, 64)
 }
